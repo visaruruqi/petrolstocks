@@ -1,2 +1,0 @@
-# petrolstocks
-Created with CodeSandbox
